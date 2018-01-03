@@ -5,6 +5,7 @@ public class MyLindeList {
 	
 	private Node length;
 	
+	//µÚ¶ş´Î²âÊÔ
 	
 	
 	
