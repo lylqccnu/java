@@ -10,6 +10,10 @@ public class test {
 		System.out.print("2018-01-04");
 		
 		System.out.print("2018-01-04");
+
+		System.out.print("2018-01-04");
+		
+		System.out.print("2018-01-04");
 	}
 
 
