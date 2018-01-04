@@ -4,7 +4,7 @@ public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//第一次测试 2222
+		//第一次测试 22223333
 		//第二次测试。。。。。
 		System.out.print("第一行代码");
 		System.out.print("伤心了一批");
