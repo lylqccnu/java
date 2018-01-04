@@ -7,7 +7,9 @@ public class test {
 		//第一次测试 222233333344444
 		//第二次测试。。。。。
 		System.out.print("第一行代码");
-		System.out.print("伤心了一批");
+		System.out.print("2018-01-04");
+		
+		System.out.print("2018-01-04");
 	}
 
 
